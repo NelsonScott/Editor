@@ -6,6 +6,7 @@ import javax.swing.*;
 /**
  * Client-server graphical editor
  * Dartmouth CS 10, Winter 2014
+ * template provided by Prof Bailey-Kellogg
  * @author Kyung Ryun (Kevin) Kim & Scott Nelson
  */
 
